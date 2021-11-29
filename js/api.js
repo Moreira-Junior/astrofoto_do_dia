@@ -15,8 +15,6 @@ async function sendApiRequest() {
     }
 }
 
-
-
 function useApiData(data) {
     const contentView = `
 <div class="card border-danger text-white bg-dark mb-3 card mb-4 mt-4" style="max-width: 100%;">
