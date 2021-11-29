@@ -1,0 +1,21 @@
+/* CSS files add styling rules to your content */
+* {
+  margin: 0 0 0 0;
+}
+.img-fundo {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Milkyway_pan.jpg/900px-Milkyway_pan.jpg");
+  height: 15rem;
+}
+p {
+  text-align: justify;
+}
+.icone {
+  width: 30px;
+}
+h1 {
+  color: #D4D4D4
+}
+.box-form {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
